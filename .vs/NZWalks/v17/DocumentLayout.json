@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\fatih\\onedrive\\masa\u00FCst\u00FC\\projects\\nzwalks\\nzwalks\\nzwalks.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\fatih\\onedrive\\masa\u00FCst\u00FC\\projects\\nzwalks\\nzwalks\\nzwalks.ui\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\fatih\\onedrive\\masa\u00FCst\u00FC\\projects\\nzwalks\\nzwalks\\nzwalks.ui\\views\\regions\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\regions\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\fatih\\onedrive\\masa\u00FCst\u00FC\\projects\\nzwalks\\nzwalks\\nzwalks.ui\\models\\addregionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\models\\addregionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\fatih\\onedrive\\masa\u00FCst\u00FC\\projects\\nzwalks\\nzwalks\\nzwalks.ui\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\fatih\\onedrive\\masa\u00FCst\u00FC\\projects\\nzwalks\\nzwalks\\nzwalks.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\fatih\\onedrive\\masa\u00FCst\u00FC\\projects\\nzwalks\\nzwalks\\nzwalks.ui\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473D193C-BD66-4B77-9D68-2A2897B41DB6}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Add.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Regions\\Add.cshtml",
+              "ToolTip": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Add.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T10:05:03.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T09:57:52.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.UI\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswJEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:23:29.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddRegionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Models\\AddRegionViewModel.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Models\\AddRegionViewModel.cs",
+              "ToolTip": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Models\\AddRegionViewModel.cs",
+              "RelativeToolTip": "NZWalks.UI\\Models\\AddRegionViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:30:41.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T08:07:29.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegionDto.cs",
+              "DocumentMoniker": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Models\\Dto\\RegionDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Models\\Dto\\RegionDto.cs",
+              "ToolTip": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Models\\Dto\\RegionDto.cs",
+              "RelativeToolTip": "NZWalks.UI\\Models\\Dto\\RegionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:03:37.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fatih\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T07:45:59.244Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
